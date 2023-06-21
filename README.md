@@ -29,7 +29,7 @@ My name is Wenderson, I've been passionate about computers since I was a little 
 
 <p align="center">
   <a href="mailto:souowendy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-BB001B?style=flat-square&logo=gmail" alt="Gmail Badge"></a>
-  <a href="https://linkedin.com/in/wsoares-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=flat-square&logo=linkedin" alt="LinkedIn Badge"></a>
+  <a href="https://linkedin.com/in/souowendy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=flat-square&logo=linkedin" alt="LinkedIn Badge"></a>
   <a href="https://discordapp.com/users/703738256121921688" target="_blank"><img src="https://img.shields.io/badge/Discord-2c2f33?style=flat-square&logo=discord" alt="Discord Badge"></a>
 </p>
 
