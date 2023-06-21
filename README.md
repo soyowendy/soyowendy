@@ -1,5 +1,7 @@
 <h2 align="center">:sparkles: Wenderson "soyowendy" Santos :sparkles:</h2>
 
+<img src="./fork-bomb.gif" align="center" alt="Shell Fork Bomb"/>
+
 My name is Wenderson, I've been passionate about computers since I was a little kid, and I've worked on many different technologies on many different projects ranging from games to websites and UNIX tools.
 
 ---
