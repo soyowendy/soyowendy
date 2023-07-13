@@ -6,7 +6,6 @@ My name is Wenderson, I've been passionate about computers since I was a little 
 
 ---
 
-- :computer: I was studying Computer Science at [OSSU](https://github.com/ossu/computer-science).
 - :seedling: I'm currently learning about `Back-End Programming` and `English`.
 - :gear: I try to use it whenever possible: `.java`.
 - :dart: My focus is a **Back-End Career**.
